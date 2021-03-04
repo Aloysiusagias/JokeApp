@@ -6,17 +6,17 @@ const DATA = [
   {
     nama: 'Jokes',
     gambar: 'belum ada',
-    link: 'main'
+    link: 'jokesMenu'
   },
   {
     nama: 'Quotes',
     gambar: 'belum ada',
-    link: 'joke'
+    link: 'quotes'
   },
   {
     nama: 'Fact',
     gambar: 'belum ada',
-    link: 'joke'
+    link: 'fact'
   },
 ];
 

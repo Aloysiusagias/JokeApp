@@ -29,7 +29,7 @@ const DATA = [
   },
 ];
 
-const main = () => {
+const jokesMenu = () => {
   const navigation = useNavigation();
   return (
     <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
@@ -64,4 +64,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default main;
+export default jokesMenu;
